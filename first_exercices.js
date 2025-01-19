@@ -20,3 +20,10 @@ test ()
 // b is water 
 // in normal life you will need an another bucket to make the switch
 
+// c is new bucket 
+
+// put the sand in the bucket c 
+// a is empty now 
+// put the water in the bucket a 
+// b is empty now 
+// b can be c 
